@@ -1,0 +1,17 @@
+C:\Projects\NeetCodeExercises\bin\Debug\net6.0\NeetCodeExercises.exe
+C:\Projects\NeetCodeExercises\bin\Debug\net6.0\NeetCodeExercises.deps.json
+C:\Projects\NeetCodeExercises\bin\Debug\net6.0\NeetCodeExercises.runtimeconfig.json
+C:\Projects\NeetCodeExercises\bin\Debug\net6.0\NeetCodeExercises.dll
+C:\Projects\NeetCodeExercises\bin\Debug\net6.0\NeetCodeExercises.pdb
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.csproj.AssemblyReference.cache
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.AssemblyInfoInputs.cache
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.AssemblyInfo.cs
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.csproj.CoreCompileInputs.cache
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.dll
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\refint\NeetCodeExercises.dll
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.pdb
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.genruntimeconfig.cache
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\ref\NeetCodeExercises.dll
+C:\Projects\NeetCodeExercises\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\NeetCodeExercises\obj\Debug\net6.0\NeetCodeExercises.csproj.CopyComplete
